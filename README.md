@@ -1,4 +1,4 @@
-[Google Maps Business Scraper](https://apify.com/ohwnnn/google-maps-business-scraper?fpr=data)
+[Google Maps Business Scraper](https://apify.com/aaravrawlley/google-maps-business-scraper?fpr=data)
 
 $/$Skip to content[![Apify logo](/img/apify-logo/wordmark.svg)![Apify logo](/img/apify-logo/wordmark-white.svg)](https://apify.com/)
 
@@ -129,27 +129,27 @@ Talk to scraping experts](https://discord.com/invite/jyEM2PRvMU)
 - [Pricing](https://apify.com/pricing)
 - [Contact sales](https://apify.com/contact-sales)
 
-![Google Maps Business Intelligence Scraper avatar](https://images.apifyusercontent.com/TdcwPnUO_zLe_8GnrAvPO37nlCOr-IbHVRpiaGO8On0/rs:fill:250:250/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vRW9qZmdiUFhQVVJsZDgyTkctYWN0b3ItZFdaMk9mUHdOQzNkdGdLNmYtUjJnRzl1aTR5Uy1kb3dubG9hZC5qcGc.webp)
+![Google Maps Business Scraper avatar](https://apify.com/img/store/actor_picture.svg)
 
-Google Maps Business Intelligence Scraper
+Google Maps Business Scraper
 
 Under maintenance
 
 Pricing
 
-from $1.50 / 1,000 result scrapeds
+Pay per usage
 
-[Try for free](https://console.apify.com/actors/dWZ2OfPwNC3dtgK6f?addFromActorId=dWZ2OfPwNC3dtgK6f)[Go to Apify Store](https://apify.com/store)![Google Maps Business Intelligence Scraper](https://images.apifyusercontent.com/TdcwPnUO_zLe_8GnrAvPO37nlCOr-IbHVRpiaGO8On0/rs:fill:250:250/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vRW9qZmdiUFhQVVJsZDgyTkctYWN0b3ItZFdaMk9mUHdOQzNkdGdLNmYtUjJnRzl1aTR5Uy1kb3dubG9hZC5qcGc.webp)
+[Try for free](https://console.apify.com/actors/wTRSSFyIRqBGCOhGA?addFromActorId=wTRSSFyIRqBGCOhGA)[Go to Apify Store](https://apify.com/store)![Google Maps Business Scraper](https://apify.com/img/store/actor_picture.svg)
 
-# Google Maps Business Intelligence Scraper
+# Google Maps Business Scraper
 
-Under maintenance[Try for free](https://console.apify.com/actors/dWZ2OfPwNC3dtgK6f?addFromActorId=dWZ2OfPwNC3dtgK6f)
+Under maintenance[Try for free](https://console.apify.com/actors/wTRSSFyIRqBGCOhGA?addFromActorId=wTRSSFyIRqBGCOhGA)
 
-Extract business names, phones, websites, ratings, reviews, addresses & GPS coordinates from Google Maps. Perfect for lead generation, local SEO & market research. Supports bulk queries & residential proxies.
+Extract business data from Google Maps — names, addresses, phone numbers, ratings, reviews, hours, websites, and GPS coordinates. Perfect for lead generation, market research, local SEO, and competitor analysis. No API key needed.
 
 Pricing
 
-from $1.50 / 1,000 result scrapeds
+Pay per usage
 
 Rating
 
@@ -159,73 +159,41 @@ Rating
 
 Developer
 
-[![Owen Carter](/_next/image?url=https%3A%2F%2Fimages.apifyusercontent.com%2F-BVy0_ZIDGOAVSaGmgI_flPuTOwqcICpt3TktayRH68%2Frs%3Afill%3A224%3A224%2Fcb%3A1%2FaHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vRW9qZmdiUFhQVVJsZDgyTkctcHJvZmlsZS1QNGV4dlBScElsLWltYWdlMF8lMjg1JTI5LmpwZWc.webp&w=3840&q=75)
+[![Aarav Rawlley](/_next/image?url=https%3A%2F%2Fimages.apifyusercontent.com%2FuD4rSEeWRYjgQ0AD-mjTHdiMVd9xXcvII7tB9YWO6wg%2Frs%3Afill%3A224%3A224%2Fcb%3A1%2FaHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci85ODdlYTc5OTU3YjRjNzAzM2NmYzUwMDQ1MWUwZWI1MTk4MTRlZGYyYjg4MDVlNDkxMmU5ZWE4MzJmZDgyYTczP2Q9aHR0cHMlM0ElMkYlMkZjZG4uYXBpZnkuY29tJTJGaW1nJTJGaWNvbnMlMkZhbm9ueW1vdXNfdXNlcl9waWN0dXJlLnBuZw.webp&w=3840&q=75)
 
-Owen Carter](https://apify.com/ohwnnn)Maintained by  Community
+Aarav Rawlley](https://apify.com/aaravrawlley)Maintained by  Community
 
 Actor stats
 
-0
+1
 
 Bookmarked
 
-2
+3
 
 Total users
 
-0
+1
 
 Monthly active users
 
-18 days ago
+a month ago
 
 Last modified
 
 Categories
 
-[Lead generation](https://apify.com/store/categories/lead-generation)[SEO tools](https://apify.com/store/categories/seo-tools)[Automation](https://apify.com/store/categories/automation)
+[Lead generation](https://apify.com/store/categories/lead-generation)
 
 Share
 
-[README](https://apify.com/ohwnnn/google-maps-business-scraper)[Input](https://apify.com/ohwnnn/google-maps-business-scraper/input-schema)[Pricing](https://apify.com/ohwnnn/google-maps-business-scraper/pricing)[API](https://apify.com/ohwnnn/google-maps-business-scraper/api/python)[Issues](https://apify.com/ohwnnn/google-maps-business-scraper/issues/open)
+[README](https://apify.com/aaravrawlley/google-maps-business-scraper)[Input](https://apify.com/aaravrawlley/google-maps-business-scraper/input-schema)[Pricing](https://apify.com/aaravrawlley/google-maps-business-scraper/pricing)[API](https://apify.com/aaravrawlley/google-maps-business-scraper/api/python)[Issues](https://apify.com/aaravrawlley/google-maps-business-scraper/issues/open)
 
 The Actor has no **README.md** file. Sad!
 
 ## You might also like
 
 [### Google Maps Business Scraper
-
-aaravrawlley / google-maps-business-scraper
-
-Extract business data from Google Maps — names, addresses, phone numbers, ratings, reviews, hours, websites, and GPS coordinates. Perfect for lead generation, market research, local SEO, and competitor analysis. No API key needed.
-
-![User avatar](https://images.apifyusercontent.com/bq1ZLuWnCPXkt5pRkFxAJwFQ3OpMOhyX6KJd_oDErac/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vWGd5WXAzV3I1Z1dmd3IzZWp2VHV0RW83OUJtcXFuNUxSSG1iZW1OYjFBSS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTkzZDNjdVozSmhkbUYwWVhJdVkyOXRMMkYyWVhSaGNpODVPRGRsWVRjNU9UVTNZalJqTnpBek0yTm1ZelV3TURRMU1XVXdaV0kxTVRrNE1UUmxaR1l5WWpnNE1EVmxORGt4TW1VNVpXRTRNekptWkRneVlUY3pQMlE5YUhSMGNITWxNMEVsTWtZbE1rWmpaRzR1WVhCcFpua3VZMjl0SlRKR2FXMW5KVEpHYVdOdmJuTWxNa1poYm05dWVXMXZkWE5mZFhObGNsOXdhV04wZFhKbExuQnVadw.webp)
-
-Aarav Rawlley
-
-3](https://apify.com/aaravrawlley/google-maps-business-scraper)[### Google Maps Business Scraper
-
-meaningful_quarry / google-maps-scraper
-
-Extract business data from Google Maps: names, ratings, reviews, addresses, phones. Perfect for lead generation, market research, and sales prospecting.
-
-Avira
-
-191](https://apify.com/meaningful_quarry/google-maps-scraper)[![Google Maps Scraper avatar](https://images.apifyusercontent.com/QU6L4M25jdcOEk_5oDMG5V55fS1zt1KMd035fXtzq1M/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vam5yRHpVbWV1bVdyMUNGeGstYWN0b3Itc05Qem5YN1FYN0plVDdSVjktbkQ5WFZzMnU3TC1DaGF0R1BUX0ltYWdlX0phbl8xOF9fMjAyNl9fMDJfNTdfNTdfUE0ucG5n.webp)
-
-### Google Maps Scraper
-
-bilal-dev / google-maps-scraper
-
-Scrape Google Maps to extract structured business data including names, addresses, phone numbers, websites, ratings, reviews, and coordinates. Ideal for lead generation, local SEO research, market analysis, and location-based intelligence.
-
-![User avatar](https://images.apifyusercontent.com/uM4Rw2j3NtHxmouiE2cs624dFxeilxzG_y1kSURKWYA/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vZlpMRjZIRVVmUlY2RUpnd0hxTkdsYkhzLUZfdFRYeU1hckRVN2VfUENrcy9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpURGhOWDJKT2RqSlROemxuWDJsT00wbEdWMkpLZWxkeWJHcFhVblZRWjFKcmJVVjRjMGhFUkZONGRsbFJMVFpYTkdvOWN6azJMV00.webp)
-
-Muhammad Bilal
-
-7
-
-5.0](https://apify.com/bilal-dev/google-maps-scraper)[### Google Maps Business Scraper
 
 diverse_venture / google-maps-scraper
 
@@ -235,17 +203,7 @@ Extract business data from Google Maps — names, addresses, phone numbers, rati
 
 Chak Man Fung
 
-2](https://apify.com/diverse_venture/google-maps-scraper)[![Google Maps Scraper avatar](https://images.apifyusercontent.com/816wal1UbH9Wizn9CRKdSyJkdU80YYbRoHMyEpjo6dQ/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vWVEyWksxM3VCUXlQRjU0Y3ctYWN0b3ItQ3BLcEpHZ0dUVHRiV1pxSXotZ2dsTUFoNWx5Ri1nb29nbGVfbWFwLnBuZw.webp)
-
-### Google Maps Scraper
-
-scrapemesh / google-maps-scraper
-
-📍 Google Maps Scraper extracts rich business data from Google Maps—names, categories, addresses, phones, emails, websites, ratings, reviews, hours & coordinates. ⚙️ Bulk scrape and export CSV/JSON. 🚀 Ideal for lead gen, local SEO, market research & sales.
-
-ScrapeMesh
-
-2](https://apify.com/scrapemesh/google-maps-scraper)[![Google Maps Scraper avatar](https://images.apifyusercontent.com/QcYMT0WEWzf9qi6bhkD41KRNp_iumQkcBzCEXVpG7ks/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vUzZRTEhpcWtVOTY5cUVXVjktYWN0b3ItNkxLakxCWDZScjdPQ21FN3ItTzZGUGNDYVBORS1nb29nbGUtbWFwcy5qcGc.webp)
+2](https://apify.com/diverse_venture/google-maps-scraper)[![Google Maps Scraper avatar](https://images.apifyusercontent.com/QcYMT0WEWzf9qi6bhkD41KRNp_iumQkcBzCEXVpG7ks/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vUzZRTEhpcWtVOTY5cUVXVjktYWN0b3ItNkxLakxCWDZScjdPQ21FN3ItTzZGUGNDYVBORS1nb29nbGUtbWFwcy5qcGc.webp)
 
 ### Google Maps Scraper
 
@@ -257,7 +215,17 @@ Scrape Google Maps search results at scale. Extract business names, addresses, p
 
 automationhub
 
-35](https://apify.com/automationhub/google-maps-scraper)[![✨ Google Maps Scraper avatar](https://images.apifyusercontent.com/PhJkx-CqNCRoZ8sDmDeWjx3-k75ZaCFCK-5Fst2I9Vk/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20veEx1cWdkOVE0U1FRa0hubGwtYWN0b3ItbnN6U3U4cW5vWXhXcEhNQjAtalhocnNZVnhvVy1Hb29nbGUuanBlZw.webp)
+35](https://apify.com/automationhub/google-maps-scraper)[### Google Maps Scraper
+
+vivid_astronaut / google-maps-scraper
+
+Extract business data from Google Maps including names, addresses, phone numbers, ratings, reviews, and opening hours. Perfect for lead generation, market research, and local business analysis.
+
+![User avatar](https://images.apifyusercontent.com/5UBgPkbdPrR2N50NKNQjd_SpZ4I7VcKenMg_lnBkN8Q/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vX3JHcjNoUWJvd1kwRzZBRkxtaFdHbW54cnFpMXFsdkxid0lycVpFWUpJdy9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTM2RaTmtwNlZsQXpkVVZFVTBGYWVFNUhXVXc0TVV0M1RsRk1jVmhXT0ZSaVh6QlpUVEp6T1VwWE5HMUxSa0ZFWW1ZOWN6azJMV00.webp)
+
+Fabio Suizu
+
+3](https://apify.com/vivid_astronaut/google-maps-scraper)[![✨ Google Maps Scraper avatar](https://images.apifyusercontent.com/PhJkx-CqNCRoZ8sDmDeWjx3-k75ZaCFCK-5Fst2I9Vk/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20veEx1cWdkOVE0U1FRa0hubGwtYWN0b3ItbnN6U3U4cW5vWXhXcEhNQjAtalhocnNZVnhvVy1Hb29nbGUuanBlZw.webp)
 
 ### ✨ Google Maps Scraper
 
@@ -281,29 +249,65 @@ Extract business data from Google Maps. Get business names, addresses, phone num
 
 Krawlify Krawlify
 
-3](https://apify.com/krawlify/google-maps-extractor)[![Google Maps Scraper avatar](https://images.apifyusercontent.com/k_jDfCND2aui_fNLC7_rzt_H-lfGg4VZyXCoUrkIvDI/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vSkVhYkVaemNHaWliTWJnWVAtYWN0b3ItVVd3aVVxWmJQY1Y5WGZ0QXQtTTA4aTBjSGNzaC1nb29nbGVfbWFwLnBuZw.webp)
+4](https://apify.com/krawlify/google-maps-extractor)[![Google Maps Scraper avatar](https://images.apifyusercontent.com/QU6L4M25jdcOEk_5oDMG5V55fS1zt1KMd035fXtzq1M/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vam5yRHpVbWV1bVdyMUNGeGstYWN0b3Itc05Qem5YN1FYN0plVDdSVjktbkQ5WFZzMnU3TC1DaGF0R1BUX0ltYWdlX0phbl8xOF9fMjAyNl9fMDJfNTdfNTdfUE0ucG5n.webp)
 
 ### Google Maps Scraper
 
-scrapium / google-maps-scraper
+bilal-dev / google-maps-scraper
 
-📍 Google Maps Scraper extracts verified local business data from Google Maps—names, addresses, phones, websites, ratings, hours, categories & coordinates. 🔎 Perfect for lead gen, local SEO, market research & CRM enrichment. 🚀 Fast, accurate, CSV/JSON-ready.
+Scrape Google Maps to extract structured business data including names, addresses, phone numbers, websites, ratings, reviews, and coordinates. Ideal for lead generation, local SEO research, market analysis, and location-based intelligence.
 
-Scrapium
+![User avatar](https://images.apifyusercontent.com/uM4Rw2j3NtHxmouiE2cs624dFxeilxzG_y1kSURKWYA/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vZlpMRjZIRVVmUlY2RUpnd0hxTkdsYkhzLUZfdFRYeU1hckRVN2VfUENrcy9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpURGhOWDJKT2RqSlROemxuWDJsT00wbEdWMkpLZWxkeWJHcFhVblZRWjFKcmJVVjRjMGhFUkZONGRsbFJMVFpYTkdvOWN6azJMV00.webp)
 
-2](https://apify.com/scrapium/google-maps-scraper)[![Google Maps Scraper avatar](https://images.apifyusercontent.com/ofPWrh0_pRatSbCu0AaDzfQXk0Utuo6XVM0aFQVY5Vs/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vVmJGUU05Y3l2cTlsOTJiTzctYWN0b3ItU0R5YmUya0hTSmwzZVpXS0UtanhyNmNWdzNMRy1nb29nbGVfbWFwLnBuZw.webp)
+Muhammad Bilal
+
+7
+
+5.0](https://apify.com/bilal-dev/google-maps-scraper)[### Google Maps Business Scraper
+
+optimus-fulcria / google-maps-scraper
+
+Extract business data from Google Maps: names, addresses, phone, ratings, reviews, hours, coordinates.
+
+![User avatar](https://images.apifyusercontent.com/VduIz3Bv-L-znO5vu5MYfOmMcUTFiQDgRl7I4zJohXY/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vWkxRZFI2TEFsamswUnphNU9ZbzU4WnBONDRERjF4aFpyZVdSZ3llRmVzSS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloZG1GMFlYSnpMbWRwZEdoMVluVnpaWEpqYjI1MFpXNTBMbU52YlM5MUx6STFOemczTWpRMk5EOTJQVFE.webp)
+
+Fulcria Labs
+
+2](https://apify.com/optimus-fulcria/google-maps-scraper)[![Google Maps Business Intelligence Scraper avatar](https://images.apifyusercontent.com/e9JztUt8rDXRX1qtelXmldXxEz97WbZV8rjK3drDF-c/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vRW9qZmdiUFhQVVJsZDgyTkctYWN0b3ItZFdaMk9mUHdOQzNkdGdLNmYtUjJnRzl1aTR5Uy1kb3dubG9hZC5qcGc.webp)
+
+### Google Maps Business Intelligence Scraper
+
+ohwnnn / google-maps-business-scraper
+
+Extract business names, phones, websites, ratings, reviews, addresses & GPS coordinates from Google Maps. Perfect for lead generation, local SEO & market research. Supports bulk queries & residential proxies.
+
+![User avatar](https://images.apifyusercontent.com/kDq1YA9uwnePraeHAP6iZ4w-SUxcoQRjeITklmq4jSo/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vS2FPTW0wN3FzYnlLSkFLeUVmdjItaXZOTXhISFVKY0Q0NWlnSmlZSEZEUS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloY0dsbWVTMXBiV0ZuWlMxMWNHeHZZV1J6TFhCeWIyUXVjek11ZFhNdFpXRnpkQzB4TG1GdFlYcHZibUYzY3k1amIyMHZSVzlxWm1kaVVGaFFWVkpzWkRneVRrY3RjSEp2Wm1sc1pTMVFOR1Y0ZGxCU2NFbHNMV2x0WVdkbE1GOGxNamcxSlRJNUxtcHdaV2MuanBlZw.webp)
+
+Owen Carter
+
+2](https://apify.com/ohwnnn/google-maps-business-scraper)[![Google Maps Scraper avatar](https://images.apifyusercontent.com/I8HczGgo6H_pAXU8Xr-rPEYLxuUpsAF-haKJW8hntCs/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vYnZVUGU2VEFKazdrOXhSTXQtYWN0b3ItYUVnZE9RZ3V4eExLallPZ00tTTJFMU83QklRYi1nb29nbGVfbWFwMi5wbmc.webp)
 
 ### Google Maps Scraper
 
-scrapapi / google-maps-scraper
+scrapeengine / google-maps-scraper
 
-🗺️ Google Maps Scraper extracts business listings at scale—names, addresses, phones, websites, ratings, reviews & coordinates. ⚡ Perfect for lead generation, local SEO, competitor analysis & market research. 📊 Clean CSV/JSON export. 🔍 Fast, reliable, anti-blocking.
+Scrape Google Maps business data with ease 📍🏢 Extract names, addresses, phone numbers, websites, ratings, reviews, categories, and more from any search or location. Perfect for lead generation, local SEO, competitor research, and market analysis at scale 🚀
 
-![User avatar](https://images.apifyusercontent.com/BVSW6MEB4awhkuIvVZZa-PaoUEAWI3bsf4A0425Aczg/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcUNpVm9GMkl4Q3E0MDhSMXlFRWNybDlTSFR5YmI1Yk1TbUVVb0NQT0xYTS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloY0dsbWVTMXBiV0ZuWlMxMWNHeHZZV1J6TFhCeWIyUXVjek11ZFhNdFpXRnpkQzB4TG1GdFlYcHZibUYzY3k1amIyMHZWbUpHVVUwNVkzbDJjVGxzT1RKaVR6Y3RjSEp2Wm1sc1pTMVlNREF6WmxOTE5rRjVMWE5qY21Gd1FWQkpMbkJ1WncucG5n.webp)
+ScrapeEngine
 
-ScrapAPI
+2](https://apify.com/scrapeengine/google-maps-scraper)[![Google Maps Scraper — Local Business Leads, Reviews & Contact I avatar](https://images.apifyusercontent.com/6nlUXoyhHOnO46eVMfG4pumpKUpdoHjOhiF1b3iAz_o/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vUnVpY3l0ejVGNzNaOUdqUGYtYWN0b3Itb255Y3p4SGlwZmRxS0JJY3UtNTBwaXp2NGZ1TC1jYXRfaGVyby5wbmc.webp)
 
-2](https://apify.com/scrapapi/google-maps-scraper)$/$
+### Google Maps Scraper — Local Business Leads, Reviews & Contact I
+
+sovereigntaylor / google-maps-scraper
+
+Scrape Google Maps search results for any query and location. Extract business names, addresses, phone numbers, websites, ratings, review counts, categories, coordinates, and Google Maps URLs. Perfect for lead generation, market research, competitor analysis, and building local business databases. S
+
+![User avatar](https://images.apifyusercontent.com/xW05aUIVQX_nvCIPBo4BF_2qVzA3ehtkJtDkX69SrLc/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vVFhlSHh2aVAtSVl0Zjh6Nl9TMnNPdDF2VDNNNU1iTHpjSjNVMWRYUXhYMC9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloY0dsbWVTMXBiV0ZuWlMxMWNHeHZZV1J6TFhCeWIyUXVjek11ZFhNdFpXRnpkQzB4TG1GdFlYcHZibUYzY3k1amIyMHZVblZwWTNsMGVqVkdOek5hT1VkcVVHWXRjSEp2Wm1sc1pTMHdPRUl6WXpKMGNrNDVMV05oZEY5M2FHbHphMlZ5WDNOd2VTNXdibWMucG5n.webp)
+
+Ricardo Akiyoshi
+
+198](https://apify.com/sovereigntaylor/google-maps-scraper)$/$
 
 Product
 
