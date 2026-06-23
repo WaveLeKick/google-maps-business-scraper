@@ -1,392 +1,594 @@
-[Google Maps Business Scraper](https://apify.com/aaravrawlley/google-maps-business-scraper?fpr=data)
-
-$/$Skip to content[![Apify logo](/img/apify-logo/wordmark.svg)![Apify logo](/img/apify-logo/wordmark-white.svg)](https://apify.com/)
-
-- [![Promotion image background](https://cdn-cms.apify.com/Apify_Store_b55e0b3991.webp)
-
-Start here!
-
-Get data with ready-made web scrapers for popular websites
-
-Browse 27,897 Actors](https://apify.com/store)
-
-Apify platform
-
-- [Apify Store
-
-Pre-built web scraping tools](https://apify.com/store)
-- [Actors
-
-Build and run serverless programs](https://apify.com/actors)
-- [Integrations
-
-Connect with apps and services](https://apify.com/integrations)
-- [MCP
-
-Give your AI access to Actors](https://mcp.apify.com/)
-
-Anti-blocking
-
-- [Anti-blocking
-
-Scrape without getting blocked](https://apify.com/anti-blocking)
-- [Proxy
-
-Rotate scraper IP addresses](https://apify.com/proxy)
-
-Open source
-
-- [Crawlee
-
-Web scraping and crawling library](https://crawlee.dev/)
-- [![Promotion image background](https://cdn-cms.apify.com/mcp_server_configuration_manu_image_light_a56988095e.png)
-
-MCP server configuration
-
-Configure your Apify MCP server with Actors and tools for seamless integration with MCP clients.
-
-Start building](https://mcp.apify.com/)
-
-Web data for
-
-- [Enterprise](https://apify.com/enterprise)
-- [Startups](https://apify.com/resources/startups)
-- [Universities](https://apify.com/resources/universities)
-- [Nonprofits](https://apify.com/resources/nonprofits)
-
-Use cases
-
-- [Data for generative AI](https://apify.com/use-cases/data-for-generative-ai)
-- [Data for AI agents](https://apify.com/use-cases/data-for-ai-agents)
-- [Lead generation](https://apify.com/use-cases/lead-generation)
-- [Market research](https://apify.com/use-cases/market-research)
-- [View more →](https://apify.com/use-cases)
-
-Consulting
-
-- [Apify Professional Services](https://apify.com/professional-services)
-- [Apify Partners](https://apify.com/partners)
-- - [Documentation
-
-Full reference for the Apify platform](https://docs.apify.com/)
-
-Get started
-
-- [Code templates
-
-Python, JavaScript, and TypeScript](https://apify.com/templates)
-- [Web scraping academy
-
-Courses for beginners and experts](https://docs.apify.com/academy)
-- [Monetize your code
-
-Publish your scrapers and get paid](https://apify.com/partners/actor-developers)
-
-Learn
-
-- [API reference](https://docs.apify.com/api)
-- [CLI](https://docs.apify.com/cli/)
-- [SDK](https://docs.apify.com/sdk)
-- [MCP](https://docs.apify.com/platform/integrations/mcp)
-- [Crawlee](https://crawlee.dev/)
-
-[![Promotion image background](https://cdn-cms.apify.com/open_source_fair_share_light_resized_10_a382097735.png)
-
-Earn from your code
-
-$1M paid out last month. Many developers earn over $3k.
-
-Start earning now](https://apify.com/partners/actor-developers)
-- - [Help and support
-
-Advice and answers about Apify](https://help.apify.com/en/)
-- [Actor ideas
-
-Get inspired to build Actors](https://apify.com/ideas)
-- [Changelog
-
-See what’s new on Apify](https://apify.com/change-log)
-- [Customer stories
-
-Find out how others use Apify](https://apify.com/success-stories)
-
-Company
-
-- [About Apify](https://apify.com/about)
-- [Contact us](https://apify.com/contact)
-- [Blog](https://blog.apify.com/)
-- [Live events](https://lu.ma/apify)
-- [Partners](https://apify.com/partners)
-- [Jobs
-
-We're hiring!](https://apify.com/jobs)
-
-[![Promotion image background](https://cdn-cms.apify.com/Join_our_Discord_b7eb9d974a.webp)
-
-Join our Discord
-
-Talk to scraping experts](https://discord.com/invite/jyEM2PRvMU)
-- [Pricing](https://apify.com/pricing)
-- [Contact sales](https://apify.com/contact-sales)
-
-![Google Maps Business Scraper avatar](https://apify.com/img/store/actor_picture.svg)
-
-Google Maps Business Scraper
-
-Under maintenance
-
-Pricing
-
-Pay per usage
-
-[Try for free](https://console.apify.com/actors/wTRSSFyIRqBGCOhGA?addFromActorId=wTRSSFyIRqBGCOhGA)[Go to Apify Store](https://apify.com/store)![Google Maps Business Scraper](https://apify.com/img/store/actor_picture.svg)
+[Google Maps Business Scraper](https://apify.com/lazymac/google-maps-business-scraper?fpr=data)
 
 # Google Maps Business Scraper
 
-Under maintenance[Try for free](https://console.apify.com/actors/wTRSSFyIRqBGCOhGA?addFromActorId=wTRSSFyIRqBGCOhGA)
+Extract comprehensive business data from Google Maps at scale. Get business names, addresses, phone numbers, websites, ratings, reviews, opening hours, coordinates, photos, and 20+ data fields for any search query or location.
+
+Built for **sales teams, marketing agencies, lead generation specialists, market researchers**, and anyone who needs structured local business data from Google Maps.
+
+## Why use this scraper?
+
+Google Maps is the world's largest local business directory, with data on over 200 million businesses across every country. This actor lets you extract that data in structured, machine-readable format ready for your CRM, spreadsheet, or data pipeline.
+
+**Key advantages:**
+
+- **Comprehensive data** — 25+ fields per business including contact info, ratings, coordinates, and opening hours
+- **Smart filtering** — Filter by rating, review count, phone availability, and website presence
+- **Multi-query support** — Search for multiple queries or locations in a single run
+- **Review extraction** — Get individual review text, ratings, and author data
+- **Photo URLs** — Extract business photos for visual verification
+- **Proxy rotation** — Built-in residential proxy support to avoid rate limiting
+- **Pay-per-event pricing** — Only pay for results you actually get
 
-Extract business data from Google Maps — names, addresses, phone numbers, ratings, reviews, hours, websites, and GPS coordinates. Perfect for lead generation, market research, local SEO, and competitor analysis. No API key needed.
+## What data can you extract?
 
-Pricing
+Every business listing includes up to 25+ structured fields:
 
-Pay per usage
+| Field | Description | Example |
+| --- | --- | --- |
+| `title` | Business name | "Joe's Pizza" |
+| `categoryName` | Business category | "Pizza Restaurant" |
+| `address` | Full street address | "123 Main St, New York, NY 10001" |
+| `street` | Street address component | "123 Main St" |
+| `city` | City name | "New York" |
+| `state` | State/province code | "NY" |
+| `postalCode` | ZIP/postal code | "10001" |
+| `countryCode` | Country code | "US" |
+| `phone` | Phone number | "+1 (212) 555-0123" |
+| `website` | Business website URL | "[https://joespizza.com](https://joespizza.com)" |
+| `url` | Google Maps URL | "[https://google.com/maps/place/](https://google.com/maps/place/)..." |
+| `totalScore` | Average rating (1-5) | 4.5 |
+| `reviewsCount` | Total number of reviews | 342 |
+| `priceLevel` | Price range indicator | "$$" |
+| `latitude` | GPS latitude | 40.7128 |
+| `longitude` | GPS longitude | -74.0060 |
+| `placeId` | Google Place ID | "ChIJN1t_tDeuEmsRUsoyG83frY4" |
+| `cid` | Google Maps CID | "12345678901234567" |
+| `status` | Business status | "OPERATIONAL" |
+| `description` | Business description | "Family-owned since 1975..." |
+| `imageUrl` | Main business image URL | "[https://lh5.googleusercontent.com/](https://lh5.googleusercontent.com/)..." |
+| `permanentlyClosed` | Is permanently closed? | false |
+| `temporarilyClosed` | Is temporarily closed? | false |
+| `openingHours` | Weekly opening hours | [{day: "Monday", hours: "9 AM - 5 PM"}] |
+| `reviews` | Individual review data | [{author, rating, text, date}] |
+| `photos` | Photo URLs | ["[https://...jpg](https://...jpg)", ...] |
+| `additionalInfo` | Amenities, attributes | {wheelchair: true, wifi: true} |
+| `scrapedAt` | Timestamp of extraction | "2026-04-16T12:00:00.000Z" |
+| `searchQuery` | Original search query | "restaurants in New York" |
 
-Rating
+## Use cases
 
-0.0
+### Lead Generation for Sales Teams
 
-( 0 )
+Extract business contact information (phone numbers, websites, addresses) for targeted outreach campaigns. Filter by rating and review count to focus on established businesses.
 
-Developer
+```
+Search: "dentists in Chicago IL"
+Filter: Rating >= 4.0, Has Phone, Has Website
+Result: 50 qualified dental practice leads with contact info
+```
 
-[![Aarav Rawlley](/_next/image?url=https%3A%2F%2Fimages.apifyusercontent.com%2FuD4rSEeWRYjgQ0AD-mjTHdiMVd9xXcvII7tB9YWO6wg%2Frs%3Afill%3A224%3A224%2Fcb%3A1%2FaHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci85ODdlYTc5OTU3YjRjNzAzM2NmYzUwMDQ1MWUwZWI1MTk4MTRlZGYyYjg4MDVlNDkxMmU5ZWE4MzJmZDgyYTczP2Q9aHR0cHMlM0ElMkYlMkZjZG4uYXBpZnkuY29tJTJGaW1nJTJGaWNvbnMlMkZhbm9ueW1vdXNfdXNlcl9waWN0dXJlLnBuZw.webp&w=3840&q=75)
+### Market Research & Competitive Analysis
 
-Aarav Rawlley](https://apify.com/aaravrawlley)Maintained by  Community
+Analyze the competitive landscape in any market by extracting all businesses in a category within a geographic area. Compare ratings, review counts, and pricing.
 
-Actor stats
+```
+Search: "coffee shops in Seattle"
+Include: Reviews, Opening Hours, Additional Info
+Result: Complete competitive analysis dataset
+```
 
-1
+### Real Estate & Location Intelligence
 
-Bookmarked
+Map all businesses around a specific address or neighborhood. Understand the commercial density, types of businesses, and walkability scores.
 
-3
+```
+Search: "businesses near Times Square New York"
+Include: Coordinates, Opening Hours
+Result: Geospatial business density data
+```
 
-Total users
+### Franchise & Expansion Planning
 
-1
+Find areas with high demand but low supply for a specific business type. Identify underserved markets for expansion opportunities.
 
-Monthly active users
+```
+Search: "pizza restaurants in Austin TX"
+Compare against: "pizza restaurants in Dallas TX"
+Result: Market gap analysis between cities
+```
 
-a month ago
+### Review Monitoring & Reputation Management
 
-Last modified
+Track reviews for businesses in your portfolio or industry. Monitor competitor sentiment and identify trends.
 
-Categories
+```
+Search: "your business name city"
+Include: Reviews (max 50), Sort by Newest
+Result: Latest customer sentiment data
+```
 
-[Lead generation](https://apify.com/store/categories/lead-generation)
+### Directory & Listing Verification
 
-Share
+Verify that business information on your website or directory matches Google Maps data. Identify outdated phone numbers, addresses, or closed businesses.
 
-[README](https://apify.com/aaravrawlley/google-maps-business-scraper)[Input](https://apify.com/aaravrawlley/google-maps-business-scraper/input-schema)[Pricing](https://apify.com/aaravrawlley/google-maps-business-scraper/pricing)[API](https://apify.com/aaravrawlley/google-maps-business-scraper/api/python)[Issues](https://apify.com/aaravrawlley/google-maps-business-scraper/issues/open)
+## Input configuration
 
-The Actor has no **README.md** file. Sad!
+### Search Configuration
 
-## You might also like
+#### Search Queries
 
-[### Google Maps Business Scraper
+The primary way to find businesses. Enter one or more search queries, each on a new line. For best results, include the location in your query.
 
-diverse_venture / google-maps-scraper
+**Examples:**
 
-Extract business data from Google Maps — names, addresses, phone numbers, ratings, reviews, websites, opening hours, and GPS coordinates. Search by keyword + location. Perfect for lead generation, market research, and local SEO. No API key needed.
+- `restaurants in San Francisco` — Find all restaurants in SF
+- `plumber near 90210` — Find plumbers near a ZIP code
+- `hotels in Paris France` — International search
+- `car repair shop downtown Denver` — Neighborhood-level search
+- `vegan restaurant Manhattan NYC` — Specific cuisine + area
 
-![User avatar](https://images.apifyusercontent.com/NCVGCjHtSP_13sm-lvpu7o_3Zf0prqWNydqhRRTw4AE/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vWVgyQ2tGUG1RY3JWNXgyc0JUYXdNTVdpbjBfWDZ0QzFGOWIwcHI5LWxCOC9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloZG1GMFlYSnpMbWRwZEdoMVluVnpaWEpqYjI1MFpXNTBMbU52YlM5MUx6STNNakV4T0RNeU1qOTJQVFE.webp)
+#### Start URLs
 
-Chak Man Fung
+For advanced users who already have Google Maps URLs. You can provide:
 
-2](https://apify.com/diverse_venture/google-maps-scraper)[![Google Maps Scraper avatar](https://images.apifyusercontent.com/QcYMT0WEWzf9qi6bhkD41KRNp_iumQkcBzCEXVpG7ks/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vUzZRTEhpcWtVOTY5cUVXVjktYWN0b3ItNkxLakxCWDZScjdPQ21FN3ItTzZGUGNDYVBORS1nb29nbGUtbWFwcy5qcGc.webp)
+- **Search result URLs**: `https://www.google.com/maps/search/restaurants+in+chicago/`
+- **Individual place URLs**: `https://www.google.com/maps/place/Joe's+Pizza/...`
 
-### Google Maps Scraper
+### Maximum Results
 
-automationhub / google-maps-scraper
+Control how many results to extract per query. Google Maps typically shows 20-120 results depending on the search. Set to 0 for unlimited.
 
-Scrape Google Maps search results at scale. Extract business names, addresses, phone numbers, websites, ratings, reviews, opening hours, and GPS coordinates. Ideal for lead generation, market research, and local SEO.
+**Recommended settings:**
 
-![User avatar](https://images.apifyusercontent.com/yBIoUe0WdPZAPLWkv1mR6tCZ9VcGc3ilA8m7zjDcZYE/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vYlVWYlFyWDJTWE5HcTNzcFVvME1zanl1MElkd3ZxaV9qeFROZkpYcmFwQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloY0dsbWVTMXBiV0ZuWlMxMWNHeHZZV1J6TFhCeWIyUXVjek11ZFhNdFpXRnpkQzB4TG1GdFlYcHZibUYzY3k1amIyMHZVelpSVEVocGNXdFZPVFk1Y1VWWFZqa3RjSEp2Wm1sc1pTMU1jMDgxWjBSelFtMWFMVE5rYVdOdmJuTXRiR0ZpTFdSNWJtRnRhV010WTI5c2IzSXVjRzVuLnBuZw.webp)
+- Quick sample: 10-20 results
+- Standard search: 50 results (default)
+- Comprehensive: 100-200 results
+- Full extraction: 0 (unlimited)
 
-automationhub
+### Localization
 
-35](https://apify.com/automationhub/google-maps-scraper)[### Google Maps Scraper
+#### Language
 
-vivid_astronaut / google-maps-scraper
+Set the language for business names, addresses, and descriptions. Uses ISO 639-1 codes:
 
-Extract business data from Google Maps including names, addresses, phone numbers, ratings, reviews, and opening hours. Perfect for lead generation, market research, and local business analysis.
+- `en` — English (default)
+- `es` — Spanish
+- `fr` — French
+- `de` — German
+- `ja` — Japanese
+- `ko` — Korean
+- `zh` — Chinese
+- `pt` — Portuguese
+- `ar` — Arabic
+- `hi` — Hindi
 
-![User avatar](https://images.apifyusercontent.com/5UBgPkbdPrR2N50NKNQjd_SpZ4I7VcKenMg_lnBkN8Q/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vX3JHcjNoUWJvd1kwRzZBRkxtaFdHbW54cnFpMXFsdkxid0lycVpFWUpJdy9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTM2RaTmtwNlZsQXpkVVZFVTBGYWVFNUhXVXc0TVV0M1RsRk1jVmhXT0ZSaVh6QlpUVEp6T1VwWE5HMUxSa0ZFWW1ZOWN6azJMV00.webp)
+#### Country Code
 
-Fabio Suizu
+Two-letter ISO country code to target the correct Google Maps regional domain:
 
-3](https://apify.com/vivid_astronaut/google-maps-scraper)[![✨ Google Maps Scraper avatar](https://images.apifyusercontent.com/PhJkx-CqNCRoZ8sDmDeWjx3-k75ZaCFCK-5Fst2I9Vk/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20veEx1cWdkOVE0U1FRa0hubGwtYWN0b3ItbnN6U3U4cW5vWXhXcEhNQjAtalhocnNZVnhvVy1Hb29nbGUuanBlZw.webp)
+- `US` — United States (default)
+- `GB` — United Kingdom
+- `CA` — Canada
+- `AU` — Australia
+- `DE` — Germany
+- `FR` — France
+- `JP` — Japan
+- `KR` — South Korea
+- `BR` — Brazil
+- `IN` — India
 
-### ✨ Google Maps Scraper
+### Data Extraction Options
 
-damilo / google-maps-scraper
+#### Include Reviews
 
-📍 Scrape business listings from Google Maps by keyword and location. Extract names, addresses, phone numbers, websites, ratings, coordinates, and more — perfect for lead generation, local SEO, and competitor research.
+When enabled, extracts individual reviews including:
 
-![User avatar](https://images.apifyusercontent.com/WSkq7WU5u2dqCIrAPjt12mAPV-hLkvxeQcBCHHqKzJU/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vd2FabXQta2p0NWZBVGtDNU9SN0xweWdJM24zWXVVSUtOaHd6RUtQcEEyay9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloY0dsbWVTMXBiV0ZuWlMxMWNHeHZZV1J6TFhCeWIyUXVjek11ZFhNdFpXRnpkQzB4TG1GdFlYcHZibUYzY3k1amIyMHZlRXgxY1dka09WRTBVMUZSYTBodWJHd3RjSEp2Wm1sc1pTMWtjVkZ5UzJOMWF6ZEVMVE5xY1dWMGFEZGxNWFJwTkRFdWFuQm4uanBn.webp)
+- Reviewer name
+- Star rating (1-5)
+- Review text
+- Review date
 
-Imad
+**Note:** Enabling reviews significantly increases run time as it requires loading additional data for each business.
 
-272
+#### Review Sort Order
 
-5.0](https://apify.com/damilo/google-maps-scraper)[### Google Maps Extractor
+Control which reviews are extracted first:
 
-krawlify / google-maps-extractor
+- **Most Relevant** — Google's default ranking (recommended)
+- **Newest First** — Most recent reviews
+- **Highest Rating** — 5-star reviews first
+- **Lowest Rating** — 1-star reviews first (useful for reputation monitoring)
 
-Extract business data from Google Maps. Get business names, addresses, phone numbers, ratings, reviews, websites, opening hours & GPS coordinates. Perfect for lead generation, sales prospecting, and market research.
+#### Include Photos
 
-![User avatar](https://images.apifyusercontent.com/9Tkqc0eF9bnp6cP5MF2wqIYRTb8y34r_JMWjUWtj7dM/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vZ0xQWV8yM2p5WVpVRE9sZXhxWUkxTDNDVXJIZHl4RWpDM1ItUlA1TWtMWS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTV0ZFTFRkNmQwSjVNVEY1YW01TVdrNUNXVUZ2ZWxOb2MyVk5hRU13YUdReGVEVlFRWEp4U2tkM1dWaDJWVGxCUFhNNU5pMWo.webp)
+Extract URLs for business photos. Useful for:
 
-Krawlify Krawlify
+- Visual verification of businesses
+- Building rich listing pages
+- Image-based analysis
 
-4](https://apify.com/krawlify/google-maps-extractor)[![Google Maps Scraper avatar](https://images.apifyusercontent.com/QU6L4M25jdcOEk_5oDMG5V55fS1zt1KMd035fXtzq1M/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vam5yRHpVbWV1bVdyMUNGeGstYWN0b3Itc05Qem5YN1FYN0plVDdSVjktbkQ5WFZzMnU3TC1DaGF0R1BUX0ltYWdlX0phbl8xOF9fMjAyNl9fMDJfNTdfNTdfUE0ucG5n.webp)
+#### Include Opening Hours
 
-### Google Maps Scraper
+Get structured weekly opening hours for each business. Returns an array with day name and time range for each day of the week.
 
-bilal-dev / google-maps-scraper
+#### Include Additional Info
 
-Scrape Google Maps to extract structured business data including names, addresses, phone numbers, websites, ratings, reviews, and coordinates. Ideal for lead generation, local SEO research, market analysis, and location-based intelligence.
+Extract business attributes and amenities like:
 
-![User avatar](https://images.apifyusercontent.com/uM4Rw2j3NtHxmouiE2cs624dFxeilxzG_y1kSURKWYA/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vZlpMRjZIRVVmUlY2RUpnd0hxTkdsYkhzLUZfdFRYeU1hckRVN2VfUENrcy9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpURGhOWDJKT2RqSlROemxuWDJsT00wbEdWMkpLZWxkeWJHcFhVblZRWjFKcmJVVjRjMGhFUkZONGRsbFJMVFpYTkdvOWN6azJMV00.webp)
+- Wheelchair accessibility
+- Wi-Fi availability
+- Outdoor seating
+- Payment methods accepted
+- Dining options (dine-in, takeout, delivery)
+- Parking availability
 
-Muhammad Bilal
+### Filters
 
-7
+#### Minimum Rating Filter
 
-5.0](https://apify.com/bilal-dev/google-maps-scraper)[### Google Maps Business Scraper
+Only include businesses rated at or above this value (0-5). Examples:
 
-optimus-fulcria / google-maps-scraper
+- `0` — Include all businesses (default)
+- `3.5` — Exclude poorly-rated businesses
+- `4.0` — Only well-rated businesses
+- `4.5` — Only top-rated businesses
 
-Extract business data from Google Maps: names, addresses, phone, ratings, reviews, hours, coordinates.
+#### Minimum Reviews Count
 
-![User avatar](https://images.apifyusercontent.com/VduIz3Bv-L-znO5vu5MYfOmMcUTFiQDgRl7I4zJohXY/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vWkxRZFI2TEFsamswUnphNU9ZbzU4WnBONDRERjF4aFpyZVdSZ3llRmVzSS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloZG1GMFlYSnpMbWRwZEdoMVluVnpaWEpqYjI1MFpXNTBMbU52YlM5MUx6STFOemczTWpRMk5EOTJQVFE.webp)
+Only include businesses with at least this many reviews. Useful for filtering out new or inactive businesses:
 
-Fulcria Labs
+- `0` — Include all (default)
+- `10` — Has some reviews
+- `50` — Established business
+- `100` — Well-known business
 
-2](https://apify.com/optimus-fulcria/google-maps-scraper)[![Google Maps Business Intelligence Scraper avatar](https://images.apifyusercontent.com/e9JztUt8rDXRX1qtelXmldXxEz97WbZV8rjK3drDF-c/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vRW9qZmdiUFhQVVJsZDgyTkctYWN0b3ItZFdaMk9mUHdOQzNkdGdLNmYtUjJnRzl1aTR5Uy1kb3dubG9hZC5qcGc.webp)
+#### Only With Phone Number
 
-### Google Maps Business Intelligence Scraper
+When enabled, skips businesses without a listed phone number. Essential for:
 
-ohwnnn / google-maps-business-scraper
+- Cold calling campaigns
+- Telemarketing outreach
+- Phone verification workflows
 
-Extract business names, phones, websites, ratings, reviews, addresses & GPS coordinates from Google Maps. Perfect for lead generation, local SEO & market research. Supports bulk queries & residential proxies.
+#### Only With Website
 
-![User avatar](https://images.apifyusercontent.com/kDq1YA9uwnePraeHAP6iZ4w-SUxcoQRjeITklmq4jSo/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vS2FPTW0wN3FzYnlLSkFLeUVmdjItaXZOTXhISFVKY0Q0NWlnSmlZSEZEUS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloY0dsbWVTMXBiV0ZuWlMxMWNHeHZZV1J6TFhCeWIyUXVjek11ZFhNdFpXRnpkQzB4TG1GdFlYcHZibUYzY3k1amIyMHZSVzlxWm1kaVVGaFFWVkpzWkRneVRrY3RjSEp2Wm1sc1pTMVFOR1Y0ZGxCU2NFbHNMV2x0WVdkbE1GOGxNamcxSlRJNUxtcHdaV2MuanBlZw.webp)
+When enabled, skips businesses without a website. Essential for:
 
-Owen Carter
+- Digital marketing campaigns
+- Website audit services
+- Online advertising outreach
 
-2](https://apify.com/ohwnnn/google-maps-business-scraper)[![Google Maps Scraper avatar](https://images.apifyusercontent.com/I8HczGgo6H_pAXU8Xr-rPEYLxuUpsAF-haKJW8hntCs/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vYnZVUGU2VEFKazdrOXhSTXQtYWN0b3ItYUVnZE9RZ3V4eExLallPZ00tTTJFMU83QklRYi1nb29nbGVfbWFwMi5wbmc.webp)
+### Performance
 
-### Google Maps Scraper
+#### Max Concurrency
 
-scrapeengine / google-maps-scraper
+Number of pages to process simultaneously. Higher values = faster scraping but higher risk of rate limiting.
 
-Scrape Google Maps business data with ease 📍🏢 Extract names, addresses, phone numbers, websites, ratings, reviews, categories, and more from any search or location. Perfect for lead generation, local SEO, competitor research, and market analysis at scale 🚀
+- `1-3` — Safe, slow
+- `5` — Balanced (default)
+- `10-20` — Fast, may trigger blocks
 
-ScrapeEngine
+#### Proxy Configuration
 
-2](https://apify.com/scrapeengine/google-maps-scraper)[![Google Maps Scraper — Local Business Leads, Reviews & Contact I avatar](https://images.apifyusercontent.com/6nlUXoyhHOnO46eVMfG4pumpKUpdoHjOhiF1b3iAz_o/rs:fill:76:76/cb:1/aHR0cHM6Ly9hcGlmeS1pbWFnZS11cGxvYWRzLXByb2QuczMudXMtZWFzdC0xLmFtYXpvbmF3cy5jb20vUnVpY3l0ejVGNzNaOUdqUGYtYWN0b3Itb255Y3p4SGlwZmRxS0JJY3UtNTBwaXp2NGZ1TC1jYXRfaGVyby5wbmc.webp)
+Configure proxy settings for reliable scraping. **Residential proxies are strongly recommended** for Google Maps to avoid blocks.
 
-### Google Maps Scraper — Local Business Leads, Reviews & Contact I
+Default: Apify residential proxy group (`RESIDENTIAL`)
 
-sovereigntaylor / google-maps-scraper
+## Output example
 
-Scrape Google Maps search results for any query and location. Extract business names, addresses, phone numbers, websites, ratings, review counts, categories, coordinates, and Google Maps URLs. Perfect for lead generation, market research, competitor analysis, and building local business databases. S
+### Single business result (JSON)
 
-![User avatar](https://images.apifyusercontent.com/xW05aUIVQX_nvCIPBo4BF_2qVzA3ehtkJtDkX69SrLc/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vVFhlSHh2aVAtSVl0Zjh6Nl9TMnNPdDF2VDNNNU1iTHpjSjNVMWRYUXhYMC9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTloY0dsbWVTMXBiV0ZuWlMxMWNHeHZZV1J6TFhCeWIyUXVjek11ZFhNdFpXRnpkQzB4TG1GdFlYcHZibUYzY3k1amIyMHZVblZwWTNsMGVqVkdOek5hT1VkcVVHWXRjSEp2Wm1sc1pTMHdPRUl6WXpKMGNrNDVMV05oZEY5M2FHbHphMlZ5WDNOd2VTNXdibWMucG5n.webp)
+```
+{
+    "title": "Golden Gate Pizza & Pasta",
+    "categoryName": "Italian Restaurant",
+    "address": "542 Clement St, San Francisco, CA 94118",
+    "street": "542 Clement St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postalCode": "94118",
+    "countryCode": "US",
+    "phone": "+1 (415) 555-0142",
+    "website": "https://goldengatepizza.com",
+    "url": "https://www.google.com/maps/place/Golden+Gate+Pizza/...",
+    "totalScore": 4.6,
+    "reviewsCount": 892,
+    "priceLevel": "$$",
+    "latitude": 37.7829,
+    "longitude": -122.4694,
+    "placeId": "ChIJd7zN_thfj4AR_06S9VV15FY",
+    "status": "OPERATIONAL",
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "description": "Casual Italian spot with classic pizzas and pasta dishes since 1985.",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipN...",
+    "openingHours": [
+        { "day": "Monday", "hours": "11:00 AM - 10:00 PM" },
+        { "day": "Tuesday", "hours": "11:00 AM - 10:00 PM" },
+        { "day": "Wednesday", "hours": "11:00 AM - 10:00 PM" },
+        { "day": "Thursday", "hours": "11:00 AM - 10:00 PM" },
+        { "day": "Friday", "hours": "11:00 AM - 11:00 PM" },
+        { "day": "Saturday", "hours": "11:00 AM - 11:00 PM" },
+        { "day": "Sunday", "hours": "12:00 PM - 9:00 PM" }
+    ],
+    "scrapedAt": "2026-04-16T12:34:56.789Z",
+    "searchQuery": "restaurants in San Francisco"
+}
+```
 
-Ricardo Akiyoshi
+### With reviews enabled
 
-198](https://apify.com/sovereigntaylor/google-maps-scraper)$/$
+```
+{
+    "title": "Golden Gate Pizza & Pasta",
+    "totalScore": 4.6,
+    "reviewsCount": 892,
+    "reviews": [
+        {
+            "author": "Sarah M.",
+            "rating": 5,
+            "text": "Best pizza in the Richmond district! The margherita is incredible and the pasta is always perfectly al dente. Great family atmosphere.",
+            "date": "2026-03-15"
+        },
+        {
+            "author": "James K.",
+            "rating": 4,
+            "text": "Solid neighborhood spot. Good food, reasonable prices. Can get crowded on weekends.",
+            "date": "2026-03-10"
+        }
+    ]
+}
+```
 
-Product
+## Integration examples
 
-- [Apify Store](https://apify.com/store)
-- [Integrations](https://apify.com/integrations)
-- [Proxy](https://apify.com/proxy)
-- [MCP](https://mcp.apify.com/)
-- [Crawlee](https://crawlee.dev/)
+### Python
 
-Developers
+```
+from apify_client import ApifyClient
 
-- [Documentation](https://docs.apify.com/)
-- [Code templates](https://apify.com/templates)
-- [API reference](https://docs.apify.com/api)
-- [Get paid on Apify](https://apify.com/partners/actor-developers)
+client = ApifyClient("YOUR_API_TOKEN")
 
-Consulting
+run_input = {
+    "searchQueries": [
+        "dentists in Chicago IL",
+        "dentists in Houston TX",
+    ],
+    "maxResults": 100,
+    "language": "en",
+    "countryCode": "US",
+    "includeReviews": False,
+    "includeOpeningHours": True,
+    "filterByRating": 4.0,
+    "onlyWithPhone": True,
+    "onlyWithWebsite": True,
+}
 
-- [Professional Services](https://apify.com/professional-services)
-- [Apify Partners](https://apify.com/partners)
+run = client.actor("lazymac2x/google-maps-business-scraper").call(run_input=run_input)
 
-Support
+for item in client.dataset(run["defaultDatasetId"]).iterate_items():
+    print(f"{item['title']} | {item['phone']} | {item['website']}")
+```
 
-- [Help & Support](https://help.apify.com/en/)
-- [Submit your ideas](https://apify.com/ideas)
-- [Forum](https://discord.apify.com/)
+### Node.js
 
-Spotlight
+```
+const { ApifyClient } = require('apify-client');
 
-- [APIs](https://apify.com/api)
-- [What is web scraping?](https://blog.apify.com/what-is-web-scraping/)
-- [Best web scraping tools](https://blog.apify.com/best-web-scraping-tools/)
-- [Python web scraping libraries](https://blog.apify.com/what-are-the-best-python-web-scraping-libraries/)
-- [Scrapers](https://apify.com/scrapers)
+const client = new ApifyClient({ token: 'YOUR_API_TOKEN' });
 
-Company
+const input = {
+    searchQueries: ['plumbers in Los Angeles CA'],
+    maxResults: 50,
+    includeOpeningHours: true,
+    onlyWithPhone: true,
+};
 
-- [About Apify](https://apify.com/about)
-- [Contact us](https://apify.com/contact)
-- [Events](https://lu.ma/apify)
-- [Blog](https://blog.apify.com/)
-- [Become an affiliate](https://apify.com/partners/affiliate)
-- [Customer stories](https://apify.com/success-stories)
-- [Changelog](https://apify.com/change-log)
-- [JobsWe're hiring!](https://apify.com/jobs)
-- [Brand](https://apify.com/resources/brand)
-- [Impressum](https://docs.apify.com/legal)
+(async () => {
+    const run = await client.actor('lazymac2x/google-maps-business-scraper').call(input);
+    const { items } = await client.dataset(run.defaultDatasetId).listItems();
 
-[![Apify logo](/img/apify-logo/logomark-32x32.svg)](https://apify.com/)
+    items.forEach(item => {
+        console.log(`${item.title} - ${item.phone} - ${item.totalScore} stars`);
+    });
+})();
+```
 
-Socials
+### API (cURL)
 
-- 
-- 
-- 
-- 
-- 
-- 
+```
+# Start the actor
+curl -X POST "https://api.apify.com/v2/acts/lazymac2x~google-maps-business-scraper/runs" \
+  -H "Authorization: Bearer YOUR_API_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "searchQueries": ["restaurants in Miami FL"],
+    "maxResults": 50,
+    "includeOpeningHours": true,
+    "onlyWithPhone": true
+  }'
 
-Security
+# Get results (use the datasetId from the run response)
+curl "https://api.apify.com/v2/datasets/DATASET_ID/items?format=json" \
+  -H "Authorization: Bearer YOUR_API_TOKEN"
+```
 
-- [![GDPR image](https://cdn-cms.apify.com/GDPR_a807ac9a_ba0683f740.svg)](https://docs.apify.com/legal/gdpr-information)
-- [![SOC2 image](https://cdn-cms.apify.com/SOC_dc6cf5ae_f7999d700f.svg)](https://trust.apify.com/)
+### Zapier Integration
 
-Reviews
+This actor works seamlessly with Zapier through the official Apify integration:
 
-- [![GetApp Apify user reviews image](/_next/image?url=https%3A%2F%2Fcdn-cms.apify.com%2FGet_App_1f4079a540.png&w=3840&q=75)](https://www.getapp.com/business-intelligence-analytics-software/a/apify/)
-- [![Software Advice Apify reviews image](/_next/image?url=https%3A%2F%2Fcdn-cms.apify.com%2FSoftwareadvice_88026ee6c2.png&w=3840&q=75)](https://www.softwareadvice.com/data-extraction/apify-profile/)
-- [![Capterra Apify user reviews image](/_next/image?url=https%3A%2F%2Fcdn-cms.apify.com%2FCapterra_ce83db3070.png&w=3840&q=75)](https://www.capterra.com/p/150854/Apify/)
-- [![G2 Apify user reviews image](/_next/image?url=https%3A%2F%2Fcdn-cms.apify.com%2FG2_d80d60f2f8.png&w=3840&q=75)](https://www.g2.com/products/apify/reviews)
-- [![TrustRadius Apify user reviews image](/_next/image?url=https%3A%2F%2Fcdn-cms.apify.com%2FTrust_Radius_7ca0e0bdad.png&w=3840&q=75)](https://www.trustradius.com/products/apify/reviews)
-- [![Crozdesk Apify user reviews image](/_next/image?url=https%3A%2F%2Fcdn-cms.apify.com%2FCrozdesk_1d12ceb040.png&w=3840&q=75)](https://crozdesk.com/software/apify)
+1. **Add the Apify trigger** in Zapier (or use the "Run Actor" action)
+2. **Set the actor** to `lazymac2x/google-maps-business-scraper`
+3. **Configure input** with your search queries and filters
+4. **Connect to your CRM** — automatically push leads to HubSpot, Salesforce, or Pipedrive
+5. **Schedule runs** — set up daily/weekly scraping for fresh leads
 
-[Loading status...](https://status.apify.com/)
+### Google Sheets Export
 
-[Terms of Use](https://docs.apify.com/legal/general-terms-and-conditions)
+Export results directly to Google Sheets:
 
-[Privacy Policy](https://docs.apify.com/legal/privacy-policy)
+1. Run the actor with your desired input
+2. Go to the dataset results page
+3. Click "Export" and choose "Google Sheets"
+4. Or use the Apify API to programmatically push data to Sheets
 
-[Cookie Policy](https://docs.apify.com/legal/cookie-policy)
+### CSV/Excel Export
 
-[©  2026  Apify](https://docs.apify.com/legal)
+All results can be exported in CSV, JSON, XML, Excel, or HTML format:
+
+```
+# Export as CSV
+curl "https://api.apify.com/v2/datasets/DATASET_ID/items?format=csv" \
+  -H "Authorization: Bearer YOUR_API_TOKEN" \
+  -o businesses.csv
+
+# Export as Excel
+curl "https://api.apify.com/v2/datasets/DATASET_ID/items?format=xlsx" \
+  -H "Authorization: Bearer YOUR_API_TOKEN" \
+  -o businesses.xlsx
+```
+
+## Tips for best results
+
+### Optimizing search queries
+
+- **Be specific with location**: "pizza in Brooklyn NY" works better than "pizza in New York"
+- **Use business categories**: "Italian restaurant" finds more results than just "restaurant"
+- **Add neighborhoods**: "barber shop Williamsburg Brooklyn" narrows results effectively
+- **Try ZIP codes**: "gym near 90210" targets a specific area
+- **Combine with qualifiers**: "best rated plumber in Dallas TX" targets top results
+
+### Controlling costs
+
+- Start with a small `maxResults` (10-20) to test your query
+- Disable reviews and photos if you only need contact info
+- Use filters (rating, phone, website) to reduce output size
+- Set appropriate `maxConcurrency` (default 5 is good for most cases)
+
+### Avoiding blocks
+
+- Use residential proxies (default configuration)
+- Keep `maxConcurrency` at 5 or below for large runs
+- Avoid running too many queries simultaneously
+- Space out large runs (1000+ results) over time
+
+### Getting the most data
+
+- Enable `includeReviews` for sentiment analysis
+- Enable `includePhotos` for visual verification
+- Enable `includeAdditionalInfo` for amenity data
+- Set `includeOpeningHours` to true (default) for availability data
+- Use `maxReviews: 50` for detailed review analysis
+
+## Pricing
+
+This actor uses **Pay-Per-Event (PPE)** pricing:
+
+- You are charged per result scraped
+- No charge for failed or filtered-out results
+- Check the actor's pricing page for current rates
+
+**Cost estimation:**
+
+- 50 businesses (basic data): ~$0.50
+- 50 businesses (with reviews): ~$1.00
+- 100 businesses (basic data): ~$1.00
+- 500 businesses (basic data): ~$5.00
+
+## Limitations
+
+- **Google Maps rate limiting**: Google may limit results for very high-volume queries. Use residential proxies and moderate concurrency.
+- **Review count**: Maximum ~100 reviews per business can be extracted. Google limits review visibility.
+- **Real-time data**: Results reflect Google Maps data at the time of scraping. Business information changes over time.
+- **Search result limits**: Google Maps shows a maximum of approximately 120 results per search query. For more results, use multiple overlapping queries with different location modifiers.
+- **Coordinates accuracy**: Coordinates extracted from URLs may have reduced precision compared to the Google Places API.
+
+## FAQ
+
+### How many results can I get per search?
+
+Google Maps typically shows 20-120 results per search query depending on the location and category density. For maximum coverage, use multiple specific queries (e.g., search by neighborhood instead of entire city).
+
+### Can I scrape businesses worldwide?
+
+Yes. Set the `countryCode` to target any country and `language` for localized results. The scraper works with all Google Maps regional domains.
+
+### How fresh is the data?
+
+Data is extracted in real-time from Google Maps. Each run gives you the most current information Google has for each business.
+
+### Do I need proxies?
+
+Residential proxies are strongly recommended and enabled by default. Without proxies, Google may block requests after a small number of queries.
+
+### How do I get phone numbers for all businesses?
+
+Enable the `onlyWithPhone` filter to only include businesses with listed phone numbers. Note that not all businesses on Google Maps have phone numbers listed.
+
+### Can I search by geographic coordinates?
+
+Yes. Use the `startUrls` input with a Google Maps URL that includes coordinates, such as: `https://www.google.com/maps/search/restaurants/@40.7128,-74.006,15z/`
+
+### How do I extract reviews?
+
+Set `includeReviews` to `true` and configure `maxReviews` (default 5). Reviews include author name, star rating, text content, and date.
+
+### What format are the results in?
+
+Results are stored in an Apify dataset and can be exported as JSON, CSV, XML, Excel, HTML, or RSS. You can also access results via the API.
+
+### Can I schedule regular runs?
+
+Yes. Use Apify's scheduling feature to run the scraper daily, weekly, or at any custom interval. Great for monitoring new businesses or tracking review changes.
+
+### How do I filter out closed businesses?
+
+The scraper includes `permanentlyClosed` and `temporarilyClosed` fields. You can filter these out in post-processing, or use the rating/review filters to focus on active businesses (closed businesses typically have no recent reviews).
+
+### Can I use this for lead generation?
+
+Absolutely. This is the primary use case. Combine search queries targeting your ideal customer profile with the `onlyWithPhone` and `onlyWithWebsite` filters to get qualified leads with contact information.
+
+### Is this legal?
+
+Web scraping of publicly available data is generally legal in most jurisdictions. Google Maps data is publicly visible to anyone. However, you should comply with Google's Terms of Service and your local regulations. This scraper is designed for research and legitimate business purposes.
+
+### How does pricing work?
+
+This actor uses Pay-Per-Event pricing. You are charged for each successfully scraped business result. Failed requests, filtered-out results, and search page loads are not charged. This means you only pay for actual data you receive.
+
+### Can I connect this to my CRM?
+
+Yes. Use the Apify API or Zapier integration to push results directly to HubSpot, Salesforce, Pipedrive, or any CRM with an API. You can also use webhook notifications to trigger workflows when a run completes.
+
+## Changelog
+
+### v1.0.0 (2026-04-16)
+
+- Initial release
+- Search by query or direct Google Maps URLs
+- 25+ data fields per business
+- Review extraction with sort options
+- Photo URL extraction
+- Opening hours extraction
+- Rating, review count, phone, and website filters
+- Multi-query support
+- Residential proxy support
+- Pay-per-event pricing
+- Python, Node.js, cURL, and Zapier integration examples
+
+## Support
+
+If you encounter any issues or have feature requests:
+
+- Open an issue on the actor's GitHub repository
+- Contact us through Apify's messaging system
+- Check the FAQ section above for common questions
+
+## Related actors
+
+- **Google Maps Reviews Scraper** — Focused on extracting reviews in depth
+- **Google Search Scraper** — Scrape Google SERP results
+- **Yellow Pages Scraper** — Alternative business directory
+- **Yelp Scraper** — Reviews and business data from Yelp
